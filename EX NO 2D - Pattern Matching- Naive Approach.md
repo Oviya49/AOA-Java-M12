@@ -26,8 +26,10 @@ m = length of pattern
 9. End
 
 ## Program:
-Developed by: V Mythili 
-Register Number:  212223040123
+```
+Developed by: Oviya N 
+Register Number:  212223040140
+```
 
 ```
 import java.util.Scanner;
