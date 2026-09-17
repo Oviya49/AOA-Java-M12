@@ -27,8 +27,10 @@ farthest = 0 → the farthest index reachable overall so far.
    
 
 ## Program:
-Developed by: V Mythili 
-Register Number:  212223040123
+```
+Developed by: Oviya N
+Register Number:  212223040140
+```
 
 ```
 import java.util.Scanner;
