@@ -1,6 +1,5 @@
-
 # EX 2A Assign Cookies using Greedy Algorithm. 
-
+## DATE: 3/8/2026
 ## AIM:
 To Write a Java program for the following Constraints.
 Assume you are an awesome parent and want to give your children some cookies. But, you should give each child at most one cookie.
@@ -26,6 +25,11 @@ Move to the next cookie (j++) in all cases.
 Print the total number of content (satisfied) children i and stop the program.
 
 ## Program:
+```
+Developed by: OVIYA N
+Register Number: 212223040140
+```
+
 ```
 
 import java.util.*;
