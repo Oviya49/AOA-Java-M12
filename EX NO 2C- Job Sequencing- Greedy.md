@@ -1,5 +1,5 @@
 # EX 2C Job Sequencing using Greedy Approach
-
+## DATE: 10/8/26
 ## AIM:
 To write a Java program to for given constraints.
 Given an integer array nums and an integer k, return the number of pairs (i, j) where i < j such that |nums[i] - nums[j]| == k.
